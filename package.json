@@ -1,0 +1,14 @@
+{
+  "name": "react-dev-standalone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-devtools-core": "^4.10.1"
+  }
+}
